@@ -8,8 +8,3 @@
 -----
 
 A repository for my workout blog powered by [Jekyll](https://github.com/jekyll/jekyll) and [Poole](https://github.com/poole/poole) using the [Lanyon](https://github.com/poole/lanyon) theme.
-
------
-
-#### To-Do List:
-+ migrate Wordpress blog posts from [The General's Journey](https://generalchoa.wordpress.com/)
