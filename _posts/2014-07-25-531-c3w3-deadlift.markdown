@@ -1,0 +1,27 @@
+---
+author: generalchoa
+comments: true
+date: 2014-07-25 19:40:25+00:00
+layout: post
+slug: 531-c3w3-deadlift
+title: 5/3/1 - C3W3 - Deadlift
+wordpress_id: 1591
+categories:
+- 5/3/1
+- Deadlift Day
+tags:
+- agile 8
+- crunches
+- deadlift
+- seated db press
+- squat
+- tricep extension
+---
+
+**Deadlift:  **5x105 + 5x135 + 3x160 + 5x200 + 3x230 + 6x255 (296.17 1RM)
+**BBB Squat 70%:  **5x105 + 5x135 + 3x160 + **3x5x190**
+
+**Seated DB Press:  **3x10x35
+**Tricep Extensions:  **15x40 + 15x45 + 10x55
+
+And this work out concludes the 3-month Boring But Big challenge.  What next...?

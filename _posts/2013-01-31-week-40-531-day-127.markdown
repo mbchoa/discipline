@@ -1,0 +1,30 @@
+---
+author: generalchoa
+comments: true
+date: 2013-01-31 13:39:02+00:00
+layout: post
+slug: week-40-531-day-127
+title: Week 40 - 5/3/1 - Day 127
+wordpress_id: 1205
+categories:
+- 5/3/1
+- Bench Day
+tags:
+- bench
+- db bench press
+- db fly
+- dips
+- tricep pushdown
+---
+
+**Cycle #4
+****Week 1 Day 3**
+
+**Warm-up Bench:  **5x65, 3x85, 3x100**
+5/3/1 Bench:  **3x110, 3x135, 5x145
+**Dips:  **5/5/4**
+****DB Fly: **4x12x15lb**
+Tricep Pushdown:  **4x20x20lb**
+DB Bench:  **4x12x25lb
+
+Should have been doing tricep extensions and not tricep pushdowns.  Brain fart.

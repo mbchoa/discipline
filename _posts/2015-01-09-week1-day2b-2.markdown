@@ -1,0 +1,27 @@
+---
+author: generalchoa
+comments: true
+date: 2015-01-09 19:35:41+00:00
+layout: post
+slug: week1-day2b-2
+title: Week1 – Day2B
+wordpress_id: 1662
+categories:
+- A
+- StrongLifts
+tags:
+- chin-ups
+- deadlift
+- press
+- squat
+---
+
+**Weight:  **179.8
+
+**Squats**:  5x5x50
+**OHP**:  5x5x45
+**Deadlift**:  5x95
+
+**Chinups:  **3/1/1
+
+

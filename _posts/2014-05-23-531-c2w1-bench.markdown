@@ -1,0 +1,30 @@
+---
+author: generalchoa
+comments: true
+date: 2014-05-23 03:14:36+00:00
+layout: post
+slug: 531-c2w1-bench
+title: 5/3/1 - C1W2 - Bench
+wordpress_id: 1537
+categories:
+- 5/3/1
+- Bench Day
+tags:
+- agile 8
+- bench
+- boring but big
+- db rows
+- face pull
+- press
+- standing bb curls
+- tricep pushdown
+---
+
+**Bench:  **5x55 + 5x70 + 5x80 + 3x95 + 3x110 + 3x125
+**BBB Press:  **5x10x45
+**DB Rows:  **5x10x35
+**BB Curls:  **3x10x40
+**Face Pulls: ** 3x10x25
+**Tricep Pushdowns:  **3x10x25
+
+I might go until failure on the top set for a while on the bench and press until things get heavy.  Face pulls and tricep pushdowns are still pretty light.

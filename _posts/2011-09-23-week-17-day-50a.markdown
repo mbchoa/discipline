@@ -1,0 +1,37 @@
+---
+author: generalchoa
+comments: true
+date: 2011-09-23 14:31:50+00:00
+layout: post
+slug: week-17-day-50a
+title: Week 17 - Day 50A
+wordpress_id: 340
+categories:
+- A
+- StrongLifts
+tags:
+- 5x5
+- deadlift
+- press
+- squat
+---
+
+**Squats:**
+
+2 x 5 x Bar
+5 x 135
+3 x 165
+2 x 195
+5 x 230
+
+**Bench:**
+
+5 x 75
+3 x 95
+2 x 115
+5/4/4 x 145
+
+**Rows:**
+
+5 x 135
+5 x 165

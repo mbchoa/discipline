@@ -1,0 +1,30 @@
+---
+author: generalchoa
+comments: true
+date: 2014-05-23 18:26:19+00:00
+layout: post
+slug: 531-c1w2-deadlift
+title: 5/3/1 - C1W2 - Deadlift
+wordpress_id: 1540
+categories:
+- 5/3/1
+- Deadlift Day
+tags:
+- agile 8
+- boring but big
+- crunches
+- deadlift
+- squat
+---
+
+**Deadlift:  **5x100 + 5x130 + 3x155 + 3x180 + 3x205 + 3x225
+**BBB Squat:  **5x10x130
+**Crunches:  **45/25/15
+
+The BBB squats weren't bad today.  I was able to finish out the 5 sets this time.  I had some lower back strain on these.  Fatigue got the best of my form perhaps.  I was going pretty low on the squats.  Used alternating grip on the top set of the deadlift, no belt.  It wasn't bad.  Gym doesn't have an ab roller so I, instead, performed some body weight crunches.
+
+I've been trying to keep myself "topped off" in terms of getting food in me.  The previous 2-3 weeks, I've been really neglecting the other half of my training:  nutrition + diet.
+
+I've been thinking of developing a personal Android App for myself to track my numbers.  In addition, I'd like this app to be able to push my info to a database where I can then serve a personal web page with the stats I've pushed from my phone.  It's certainly nothing novel, but I think it'd be cool to build something from scratch.  I've been running this personal blog for close to 3 years now.  The amount of lifting datum I've accrued is certainly not negligible anymore.
+
+Being able to analyze patterns in my workout progress over these periods of time can definitely help me learn a lot of new things about myself that I may have not been able to recognize in the past.  What worked?  What didn't work?  When did I have the longest streak of PRs?  When was I strongest?  When did I plateau?  Which workout regimen gave me the most gains?
