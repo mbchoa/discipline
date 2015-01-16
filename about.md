@@ -1,30 +1,11 @@
 ---
+author: generalchoa
+comments: true
+date: 2011-05-21 01:48:39+00:00
 layout: page
+slug: about
 title: About
+wordpress_id: 2
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+My name is Michael and this blog will be detailing my experiences through the daily grind of lifting the iron.  I began lifting seriously during my sophomore year of college in hopes of becoming stronger and healthier.  My drive for lifting and my mission of being more health conscious is rooted in my fears of developing the same debilitating medical conditions that my father encountered in his middle age.  With this blog, it is my hope that it will provide motivation to others about becoming stronger and healthier and to provide me with the fuel to become stronger and be consistent in my training and everyday life.

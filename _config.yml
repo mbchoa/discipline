@@ -13,7 +13,7 @@ title:               The General's Journey
 tagline:             'A strength training journal'
 description:         'My personal strength training diary containing all my successes, failures and everything in between.'
 url:                 https://mbchoa.github.io/discipline
-baseurl:             /discipline
+baseurl:             /discipline/
 paginate:            5
 
 # About/contact
