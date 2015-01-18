@@ -27,5 +27,5 @@ version:             1.0.0
 
 # Navigation menu
 pages_list:       
-  About: '/about/'
-  Archive: '/archive/'
+  About: 'about/'
+  Archive: 'archive/'
