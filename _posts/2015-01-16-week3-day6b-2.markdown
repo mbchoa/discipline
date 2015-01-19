@@ -1,0 +1,25 @@
+---
+author: generalchoa
+comments: true
+date: 2015-01-16 21:15:41+00:00
+layout: post
+slug: week2-day6b-2
+title: Week2 – DaybB
+wordpress_id: 1666
+categories:
+- B
+- StrongLifts
+tags:
+- press
+- prowler
+- deadlift
+- squat
+---
+
+**Weight:  **183.2
+
+**Squats**:  5x5x75
+**Press**:  5x5x55
+**Deadlift**:  1x5x115
+
+**Prowler:**  4 + 2
