@@ -14,7 +14,7 @@ tagline:             'A strength training journal'
 description:         'My personal strength training diary containing all my successes, failures and everything in between.'
 url:                 https://mbchoa.github.io/discipline
 baseurl:             /discipline/
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
