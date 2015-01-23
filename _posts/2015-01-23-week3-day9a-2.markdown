@@ -1,0 +1,27 @@
+---
+author: generalchoa
+comments: true
+date: 2015-01-23 14:24:41+00:00
+layout: post
+title: Week3 – Day9A
+categories:
+- A
+- StrongLifts
+tags:
+- bench
+- rows
+- squat
+- dips
+- incline db press
+---
+
+**Weight**:  182.0
+
+**Squats**:  5x5x90
+
+**Bench**:  5x10x65
+
+**Rows**: 3x10x85 + 5x85 + 7x85
+
+**Dips**: 6/3/2
+**Incline DB Bench (Left Arm)**: 15x25 + 8x25 + 7x25
