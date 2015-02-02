@@ -1,0 +1,27 @@
+---
+author: generalchoa
+comments: true
+date: 2015-01-28 14:30:41+00:00
+layout: post
+title: Week4 – Day12B
+categories:
+- B
+- StrongLifts
+tags:
+- press
+- prowler
+- deadlift
+- squat
+- chin-ups
+---
+
+**Weight**:  182.3
+
+**Squats**:  5x5x105
+
+**Press**:  5x5x70
+
+**Deadlift**:  1x5x135
+
+**Chin-Ups:**  2/1/1
+**Prowler:**  3/2
