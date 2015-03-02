@@ -3,7 +3,7 @@ author: generalchoa
 comments: true
 date: 2015-03-02 8:00:41+00:00
 layout: post
-title: Week6 – Day13B
+title: Week6 – Day14B
 categories:
 - B
 - StrongLifts
