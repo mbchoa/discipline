@@ -1,0 +1,30 @@
+---
+author: generalchoa
+comments: true
+date: 2015-04-10 14:37:41+00:00
+layout: post
+title: Week1 – Day3A
+categories:
+- A
+- StrongLifts
+tags:
+- bench
+- rows
+- squat
+- dips
+- pause bench press
+- plank
+---
+
+**Weight**:  179.0
+
+**Squats**:  2x5x45 + 5x5x75
+
+**Bench**:  2x5x45 + 5x5x65
+
+**Rows**: 5x5x75
+
+**Dips**: 7/3/2
+
+**Paused Bench Press**: 3x5x50
+**Plank**: 3x35 sec

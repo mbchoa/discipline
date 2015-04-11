@@ -1,0 +1,30 @@
+---
+author: generalchoa
+comments: true
+date: 2015-04-08 13:30:41+00:00
+layout: post
+title: Week1 – Day2B
+categories:
+- B
+- StrongLifts
+tags:
+- press
+- deadlift
+- squat
+- chinups
+- barbell curls
+- leg raises
+---
+
+**Weight**:  180.1
+
+**Squats**:  5x5x80
+
+**Press**:  5/2/2/2/2 x 75
+
+**Deadlift**:  5x135 + 1x155
+
+**Chinups**: 2/1/1
+
+**Barbell Curls**: 2x8x30
+**Leg Raises**: 2x8xBW
