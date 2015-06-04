@@ -12,9 +12,9 @@ tags:
 - pullups
 ---
 
-**Weight**:  189.8
+**Weight**  189.8
 
-**Squats**:  
+**Squats** <br/>
 45 x 5 x 2 <br/>
 90 x 5 <br/>
 135 x 3 <br/>
@@ -22,7 +22,7 @@ tags:
 230 x 5/5/4 <br/>
 Missed one rep (due to fatigue), bar speed slow, proceed with micro-load
 
-**Bench**:  
+**Bench** <br/>
 45 x 5 x 2 <br/>
 70 x 5 <br/>
 100 x 3 <br/>
